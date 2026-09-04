@@ -67,6 +67,4 @@ Users can filter the dashboard using:
 - Customer ratings provide an additional measure of outlet performance.
  ## Author
 - Dnyaneshwari Shitole
-│
-└── Documentation/
-    └── Project_Documentation.pdf
+
