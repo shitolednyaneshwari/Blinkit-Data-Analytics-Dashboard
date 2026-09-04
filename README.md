@@ -54,12 +54,9 @@ Users can filter the dashboard using:
 - Outlet Location Type
 - Outlet Size
 - Item Type
-## 📊 Dashboard Preview
-
-
-![Blinkit Dashboard Overview](Screenshots/Blinkit_Dashboard_Overview.png)
-
-![Blinkit Dashboard Filtered](Screenshots/Blinkit_Dashboard_Filtered.png)
+## 📊 Dashboard Previe
+![Blinkit Dashboard Overview](https://github.com/user-attachments/...)
+![Blinkit Dashboard Filtered](https://github.com/user-attachments/...)
 ## 🔍 Key Insights
 - The dashboard provides an overall view of Blinkit's sales performance.
 - Sales can be compared across different outlet types.
