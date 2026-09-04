@@ -54,7 +54,7 @@ Users can filter the dashboard using:
 - Outlet Location Type
 - Outlet Size
 - Item Type
-## 📊 Dashboard Previe
+## 📊 Dashboard Preview
 ![Blinkit Dashboard Overview](https://github.com/user-attachments/...)
 ![Blinkit Dashboard Filtered](https://github.com/user-attachments/...)
 ## 🔍 Key Insights
